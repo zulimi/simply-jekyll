@@ -1,17 +1,13 @@
 ---
-
-type: note
-
+title: 202008111305 On Bullet Journal (BuJo)
 ---
-
-# On Bullet Journal
 
 I will continue keeping separate journal for all that going on in real life. Hopefully daily jounal in the form of (Digital) Bullet Journal. This to ensure that I can keep being productive in my life
 
 ## Reference
 
-- https://bulletjournal.com
-- https://dynalist.io
+- <https://bulletjournal.com>
+- <https://dynalist.io>
 
 ## Links
 

@@ -1,12 +1,8 @@
 ---
-
-type: note
-
+title: 202007241545 Using StackEdit to edit file from Github
 ---
 
-# Using StackEdit to edit file from GitHub
-
-Use [StackEdit](https://stackedit.io) to add quick note from mobile. The notes will be [[202007221519 Sync Notes with Github|Sync to the Github]]
+Use [StackEdit](https://stackedit.io) to add quick note from mobile. The notes will be [[202007221519 Sync Notes with Github]]
 
 ---
 

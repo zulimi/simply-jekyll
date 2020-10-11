@@ -1,10 +1,6 @@
 ---
-
-type: note
-
+title: 202008120012 Tools and how it help us
 ---
-
-# Tools and how it helps us
 
 > If we try to use a tool without putting any thought into the way we work with it, even the best tool would not be of much help...And it is indeed crucially important not only to know how it works or how to work with it, but also why it works. Only then will you be able to tweak it for your own needs. -Sönke Ahrens
 

@@ -1,10 +1,6 @@
 ---
-
-type: note
-
+title: 202008120103 Develop your thinking in writing
 ---
-
-# Develop your thinking in writing
 
 To ease the process of findings ideas or topics, develop your thinking in writing. This will shape your ideas and arguments and give you an abudance of possible topics to elaborate in writing.
 

@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/zettelkasten.md",
+            "file": "_notes/202009140655 Taxanomy of Styles of Collaborative Writing.md",
             "mode": "source"
           }
         }
@@ -64,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/zettelkasten.md"
+                "file": "_notes/202009140655 Taxanomy of Styles of Collaborative Writing.md"
               }
             }
           }
@@ -76,15 +76,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "zettelkasten.md",
-    "_notes/202007220112 Using Obsidian.md",
-    "_notes/202007220104 Learning about zettelkasten.md",
-    "_notes/202007220232 TiddlyWiki.md",
-    "about.md",
-    "index.md",
-    "_posts/2020-05-01-Introduction-to-simply-jekyll.md",
-    "_posts/2020-04-01-Exploring-the-features-of-simply-jekyll.md",
-    "_posts/2020-03-01-How-to-setup-simply-jekyll.md",
-    "_posts/2020-02-01-How-to-use-simply-jekyll-features-on-your-website.md"
+    "_notes/202009140655 Taxanomy of Styles of Collaborative Writing.md",
+    "_notes/202009140645 Collaborative Writing.md",
+    "_notes/202008310727 Visual Saliency.md",
+    "_notes/202008310656 On Visual Saliency, Isovist, and Depth Analysis.md",
+    "collaborative-writing.md",
+    "x-toFind.md",
+    "x-toReview.md",
+    "navigational-behaviour.md",
+    "_notes/visual-saliency.md",
+    "_notes/202008140235 Smart Notes.md"
   ]
 }

@@ -1,10 +1,6 @@
 ---
-
-type: note
-
+title: 202008120118 Expressing understanding in one's own words
 ---
-
-# Expressing understanding in one's own words
 
 How far do you understand the ideas can be seen in how you write your undertanding in your own words. The more your understand the better ideas can you convey.
 

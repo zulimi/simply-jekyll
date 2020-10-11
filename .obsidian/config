@@ -12,5 +12,6 @@
     "page-preview": true,
     "zk-prefixer": true,
     "custom-css": true
-  }
+  },
+  "alwaysUpdateLinks": true
 }

@@ -2,9 +2,6 @@
 title: 202007220104 Learning about zettelkasten
 ---
 
-
-# Learning about Zettelkasten
-
 Yes, learning about zettelkasten and how it can be used to organised notes. I like the idea of notes and note-taking method. I'm going to adopt this for my note-taking.
 
 - See [[202008102134 Notes on zettelkasten principles]]
@@ -12,7 +9,7 @@ Yes, learning about zettelkasten and how it can be used to organised notes. I li
 
 what can be use:
 - [[202007220112 Using Obsidian]] 
-- [[202007220232 Tiddlywiki]]
+- [[202007220232 TiddlyWiki]]
 
 ## Future thoughts
 - [[202007221519 Sync Notes with Github]]

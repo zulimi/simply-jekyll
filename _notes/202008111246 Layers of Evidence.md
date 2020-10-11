@@ -1,12 +1,10 @@
 ---
-
-type: note
-
+title: 202008111246 Layers of Evidence
 ---
 
 # Layers of Evidence
 
-This note made after reading https://zettelkasten.de/posts/layers-of-evidence/. I found it useful for me to understand that I need to understand information that I read in layers:
+This note made after reading <https://zettelkasten.de/posts/layers-of-evidence/>. I found it useful for me to understand that I need to understand information that I read in layers:
 
 1. patterns or description of data
 2. interpretation of the data patterns

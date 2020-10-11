@@ -1,10 +1,6 @@
 ---
-
-type: note
-
+title: 202008112107 Good note-taking
 ---
-
-# Good note-taking
 
 > That is why good, productive writing is based on good note-taking. - Sönke Ahrens
 

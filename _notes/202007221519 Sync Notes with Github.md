@@ -1,10 +1,6 @@
 ---
-
-type: note
-
+title: 202007221519 Sync Notes with Github
 ---
-
-# Sync Notes with Github
 
 My notes a sync with github project [zulimi-zettelkasten](https://github.com/zulimi/zulimi-zettelkasten)
 

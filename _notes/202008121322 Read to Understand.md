@@ -1,10 +1,6 @@
 ---
-
-type: note
-
+title: 202008121322 Read to Understand
 ---
-
-# Read to Understand
 
 To be able to understanding something you read, you must be selective and know the gist of the literature. Jot down your permanent notes as an insight or idea of what you have understand.
 

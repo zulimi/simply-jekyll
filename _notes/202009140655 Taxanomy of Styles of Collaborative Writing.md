@@ -1,10 +1,6 @@
 ---
-
-type: note
-
+title: 202009140655 Taxanomy of Styles of Collaborative Writing
 ---
-
-# Taxanomy of Styles of Collaborative Writing
 
 Posner and Baeckers (1992) with modification by Lowry et al. (2004) introduce the following taxanomy to descripe the styles and strategies that involve in Collaborative Writing
 

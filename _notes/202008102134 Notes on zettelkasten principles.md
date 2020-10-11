@@ -1,10 +1,6 @@
 ---
-
-type: note
-
+title: 202008102134 Notes on zettelkasten principles
 ---
-
-# On Zettelkasten principles
 
 Things to follow while writing my notes:
 
@@ -22,7 +18,7 @@ Things to follow while writing my notes:
 12. add notes without fear
 
 ## Reference
-https://writingcooperative.com/zettelkasten-how-one-german-scholar-was-so-freakishly-productive-997e4e0ca125
+<https://writingcooperative.com/zettelkasten-how-one-german-scholar-was-so-freakishly-productive-997e4e0ca125>
 
 ---
 

@@ -1,10 +1,6 @@
 ---
-
-type: note
-
+title: 202008310727 Visual Saliency
 ---
-
-# Visual Saliency
 
 Visual Saliency is the "subjective perceptual quality some stimuli possess within a visual scene, which makes them stand out from their neighbours and gain the observer's attention" ([Psarras et al., 2019](https://www.zotero.org/users/5985174/items/46IS28G3)). 
 
@@ -12,7 +8,7 @@ One of the first Saliency model is that of Koch which has been extensively used 
 
 ## Link
 
-- this notes is for more exploration about [[202008310656 On Visual Saliency, Isovist, and Depth Analysis]] #toReview
+- this notes is for more exploration about [[202008310656 On Visual Saliency, Isovist, and Depth Analysis]] [[x-toFind]]
 
 ## Further Readings
 

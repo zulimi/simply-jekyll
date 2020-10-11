@@ -1,10 +1,8 @@
 ---
 
-type: note
+title: 202008122358 Learning from Reading
 
 ---
-
-# Learning from Reading
 
 How do you learn from reading. By writing what you understand from your reading. The gist of the texts and the ideas that you understand are put into writing to aid understanding. How well you describe the idea shows how well you understand the text.
 
@@ -15,7 +13,6 @@ How do you learn from reading. By writing what you understand from your reading.
 ## Links
 
 - The book provide really interesting insights about zettelkasten [[202007220104 Learning about zettelkasten]]
-- Another elaboration of [[202008122358 Learning from Reading]]
 - [[202008120118 Expressing understanding in one's own words]] is the main idea here.
 
 ---

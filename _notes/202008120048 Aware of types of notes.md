@@ -1,10 +1,6 @@
 ---
-
-type: note
-
+title: 202008120048 Aware of types of notes
 ---
-
-# Aware of types of notes
 
 Sohren outline three types of notes:
 

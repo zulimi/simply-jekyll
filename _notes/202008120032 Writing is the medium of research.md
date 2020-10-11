@@ -1,10 +1,6 @@
 ---
-
-type: note
-
+title: 202008120032 Writing is the medium of research
 ---
-
-# Writing is the medium of research
 
 Eventually, ideas must be written to the people, shared to the public. The presentation and the production of knowledge cannot be separated. Always regard writing ideas as the main focus while researching or studying. Write any ideas that relate to what you are doing. You are what you wrote.
 
@@ -19,6 +15,6 @@ Eventually, ideas must be written to the people, shared to the public. The prese
 
 ---
 
-Tags: [[note-taking]], [[techniques]]
+Tags: [[note-taking]], [[techniques]], [[writing]]
 
 ---

@@ -1,7 +1,5 @@
 ---
-
-type: note
-
+title: 202009140645 Collaborative Writing
 ---
 
 # Collaborative Writing

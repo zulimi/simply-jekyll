@@ -1,14 +1,10 @@
 ---
-
-type: note
-
+title: 202007261007 Skolar Typeface
 ---
-
-# Skolar Typeface
 
 Skolar Typeface is a good typeface for body text. Would be using it for my notes! 
 
-see also [[202007261017 ia Writer Mono]] Writer Mono]]
+see also [[202007261017 iA Writer Mono]]
 
 ---
 

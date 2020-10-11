@@ -1,7 +1,5 @@
 ---
-
-type: note
-
+title: 202008102131 A new way of taking notes
 ---
 
 # A new way of taking notes
