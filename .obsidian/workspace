@@ -1,0 +1,90 @@
+{
+  "main": {
+    "id": "c8d49ac11cbb62bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "a604176acb227ce3",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "_notes/zettelkasten.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e9d91bd48838a63e",
+    "type": "split",
+    "children": [
+      {
+        "id": "9731b33befd54c7e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "01b3871480ed9928",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a112c9463dc6a373",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": ""
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "35cb0b38143002b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "12a9f6ad75bb53d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a119f466dd2b0041",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_notes/zettelkasten.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "zettelkasten.md",
+    "_notes/202007220112 Using Obsidian.md",
+    "_notes/202007220104 Learning about zettelkasten.md",
+    "_notes/202007220232 TiddlyWiki.md",
+    "about.md",
+    "index.md",
+    "_posts/2020-05-01-Introduction-to-simply-jekyll.md",
+    "_posts/2020-04-01-Exploring-the-features-of-simply-jekyll.md",
+    "_posts/2020-03-01-How-to-setup-simply-jekyll.md",
+    "_posts/2020-02-01-How-to-use-simply-jekyll-features-on-your-website.md"
+  ]
+}
