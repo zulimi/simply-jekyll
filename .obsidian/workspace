@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/202009140655 Taxanomy of Styles of Collaborative Writing.md",
+            "file": "_notes/tiddlywiki.md",
             "mode": "source"
           }
         }
@@ -64,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/202009140655 Taxanomy of Styles of Collaborative Writing.md"
+                "file": "_notes/tiddlywiki.md"
               }
             }
           }
@@ -76,15 +76,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "_notes/tiddlywiki.md",
+    "_notes/202007220232 TiddlyWiki.md",
+    "tiddlywiki.md",
     "_notes/202009140655 Taxanomy of Styles of Collaborative Writing.md",
     "_notes/202009140645 Collaborative Writing.md",
     "_notes/202008310727 Visual Saliency.md",
     "_notes/202008310656 On Visual Saliency, Isovist, and Depth Analysis.md",
     "collaborative-writing.md",
     "x-toFind.md",
-    "x-toReview.md",
-    "navigational-behaviour.md",
-    "_notes/visual-saliency.md",
-    "_notes/202008140235 Smart Notes.md"
+    "x-toReview.md"
   ]
 }
