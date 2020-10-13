@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/tiddlywiki.md",
+            "file": "_posts/2020-10-12-FAE-Courses.md",
             "mode": "source"
           }
         }
@@ -64,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/tiddlywiki.md"
+                "file": "_posts/2020-10-12-FAE-Courses.md"
               }
             }
           }
@@ -72,19 +72,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "lastOpenFiles": [
-    "_notes/tiddlywiki.md",
-    "_notes/202007220232 TiddlyWiki.md",
-    "tiddlywiki.md",
-    "_notes/202009140655 Taxanomy of Styles of Collaborative Writing.md",
-    "_notes/202009140645 Collaborative Writing.md",
+    "_posts/2020-10-12-FAE-Courses.md",
     "_notes/202008310727 Visual Saliency.md",
-    "_notes/202008310656 On Visual Saliency, Isovist, and Depth Analysis.md",
-    "collaborative-writing.md",
-    "x-toFind.md",
-    "x-toReview.md"
+    "_notes/dynalist.md",
+    "_notes/202008111305 On Bullet Journal (BuJo).md",
+    "_notes/collaborative-writing.md",
+    "_notes/fonts.md",
+    "_notes/ia-writer-mono.md",
+    "_notes/hypothes-is.md",
+    "_notes/note-taking.md",
+    "_notes/navigational-behaviour.md"
   ]
 }

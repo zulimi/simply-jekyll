@@ -6,7 +6,7 @@ profile_pic: /assets/img/profile.png
 favicon: /assets/img/favicon.png
 copyright_name: Nuzul Haqimi Muhammad
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://jovial-kare-ec06ab.netlify.app" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://zulimi.xyz" # the base hostname & protocol for your site, e.g. http://example.com
 encoding: utf-8
 
 # Build settings
