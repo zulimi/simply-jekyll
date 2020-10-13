@@ -31,3 +31,5 @@ Sometimes, I will provide index contents that will guide the visitor on certain 
 ## Contact
 
 You can contact me using my work email <nuzulhaqimi@umk.edu.my>, personal email <nuzulhaqimi.m@gmail.com> or telegram https://t.me/zulimi
+
+---
