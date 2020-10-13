@@ -11,7 +11,10 @@
     "word-count": true,
     "page-preview": true,
     "zk-prefixer": true,
-    "custom-css": true
+    "custom-css": true,
+    "slides": true,
+    "daily-notes": true
   },
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "showFrontmatter": false
 }
