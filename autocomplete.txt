@@ -6,3 +6,6 @@
 {%- for post in site.notes -%}
 {{ post.title | strip_html | escape }}{% unless foorloop.last %};{% endunless %}
 {%- endfor -%}
+{%- for post in site.courses -%}
+{{ post.title | strip_html | escape }}{% unless foorloop.last %};{% endunless %}
+{%- endfor -%}
