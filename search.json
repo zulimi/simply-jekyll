@@ -12,7 +12,7 @@
     },
   {% endfor %}
 
-  {% for post in site.notes %}
+  {% for post in site.notes or site.courses %}
     {
 
       "title"    : "{{ post.title | strip_html | escape }}",
@@ -22,7 +22,7 @@
     }{% unless forloop.last %},{% endunless %}
   {% endfor %}
 
-  {% for post in site.courses %}
+  {% for post in site.notes or site.courses %}
     {
 
       "title"    : "{{ post.title | strip_html | escape }}",
