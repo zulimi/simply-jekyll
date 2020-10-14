@@ -31,9 +31,6 @@ collections:
     notes:
       output: true
       permalink: /notes/:title
-    courses:
-      output: true
-      permalink: /courses/:title
 
 disqus:
   shortname: raghuveerdotnet
