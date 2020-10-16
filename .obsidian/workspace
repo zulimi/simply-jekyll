@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/202007220104 Learning about zettelkasten.md",
+            "file": "_posts/2020-10-12-FAE-Courses.md",
             "mode": "source"
           }
         }
@@ -64,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/202007220104 Learning about zettelkasten.md"
+                "file": "_posts/2020-10-12-FAE-Courses.md"
               }
             }
           }
@@ -75,6 +75,7 @@
     "width": 300
   },
   "lastOpenFiles": [
+    "_posts/2020-10-12-FAE-Courses.md",
     "_notes/202007220104 Learning about zettelkasten.md",
     "about.md",
     "_notes/202008111246 Layers of Evidence.md",
@@ -83,7 +84,6 @@
     "_notes/202010131646.md",
     "_posts/2020-10-13.md",
     "_notes/202008140235 Smart Notes.md",
-    "_notes/202008310656 On Visual Saliency, Isovist, and Depth Analysis.md",
-    "_notes/202008310727 Visual Saliency.md"
+    "_notes/202008310656 On Visual Saliency, Isovist, and Depth Analysis.md"
   ]
 }

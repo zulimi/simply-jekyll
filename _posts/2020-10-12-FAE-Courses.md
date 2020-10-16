@@ -1,5 +1,7 @@
 ---
 title: FAE Courses
+tags: fae courses
+status: ongoing
 ---
 
 This is a list of the courses that I taught.
