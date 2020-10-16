@@ -1,7 +1,5 @@
 ---
 title: 202007220104 Learning about zettelkasten
-tags: notes
-status: ongoing
 ---
 
 Yes, learning about zettelkasten and how it can be used to organised notes. I like the idea of notes and note-taking method. I'm going to adopt this for my note-taking.
