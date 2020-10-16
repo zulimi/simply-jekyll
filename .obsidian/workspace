@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_posts/2020-10-12-FAE-Courses.md",
+            "file": "_notes/SGA2373 2020.md",
             "mode": "source"
           }
         }
@@ -64,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2020-10-12-FAE-Courses.md"
+                "file": "_notes/SGA2373 2020.md"
               }
             }
           }
@@ -75,6 +75,7 @@
     "width": 300
   },
   "lastOpenFiles": [
+    "_notes/Untitled.md",
     "_posts/2020-10-12-FAE-Courses.md",
     "_notes/202007220104 Learning about zettelkasten.md",
     "about.md",
@@ -83,7 +84,6 @@
     "_notes/202007220112 Using Obsidian.md",
     "_notes/202010131646.md",
     "_posts/2020-10-13.md",
-    "_notes/202008140235 Smart Notes.md",
-    "_notes/202008310656 On Visual Saliency, Isovist, and Depth Analysis.md"
+    "_notes/202008140235 Smart Notes.md"
   ]
 }
